@@ -1,0 +1,3 @@
+[submodule "voice-over-translation"]
+	path = voice-over-translation
+	url = https://github.com/ilyhalight/voice-over-translation.git
